@@ -1,6 +1,6 @@
 # Bash_Training
 
-<br>Adding a few examples to sed!
+<br>Adding a few examples to sed! + adding description + take a look at docs to practise additional bash commands related to Data Enginneering
 <br>Current files:
 <br>Exercises were done after each section from a tutorial 
 
