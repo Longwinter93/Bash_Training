@@ -1,0 +1,24 @@
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
+model		: 154
+model name	: 12th Gen Intel(R) Core(TM) i7-1255U
