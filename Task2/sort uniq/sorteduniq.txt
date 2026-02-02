@@ -1,0 +1,12 @@
+      3 Affenpinscher
+      2 Afghan Hound
+      2 Basset Hound
+      2 Beagle
+      3 Bearded Collie
+      1 Bedlington Terrier
+      1 French Bulldog
+      1 Golden Retriever
+      1 Pomeranian
+      2 Portuguese Water Dog
+      3 Pug
+      2 Standard Schnauzer

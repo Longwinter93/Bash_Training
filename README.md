@@ -3,7 +3,7 @@
 <br>Adding a few examples to sed! + adding description + take a look at docs to practise additional bash commands related to Data Enginneering
 <br>Current files:
 <br>Exercises were done after each section from a tutorial 
-
+<br>Adding File Tree Markdown using VSC extensions to make it beautiful
 <br>A grand plan:
 <br>I am going to add all materials and Bash commands and scripts that I have just learnt
 <br>I will use Bash commands or write my own Bash Scripts like CreateFolder.sh to copy, modify and create files/folder and everything that I learnt from tutorial in this repo to practise using commands!!
