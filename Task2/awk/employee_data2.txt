@@ -1,0 +1,9 @@
+Customer
+John Doe
+Jane Smith
+Emily Davis
+Michael Brown
+Adam Adam
+Andrew Kurka
+Maciej Kowalski
+Jola Polanska
