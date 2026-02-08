@@ -1,0 +1,5 @@
+firstName lastName age city id department
+Ola Markowska 30 Lodz 1 IT
+Mateusz Mateuszowski 25 Warsaw 2 IT 
+Rafal Rafalski 27 Gdansk 3 procurement
+Marcin Marcinowski 40 Poznan 4 procurement

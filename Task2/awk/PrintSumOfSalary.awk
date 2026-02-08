@@ -1,0 +1,1 @@
+{ print $6, "has amount", $3}

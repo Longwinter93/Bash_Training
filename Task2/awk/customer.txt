@@ -1,0 +1,6 @@
+andrzej manager account 40000
+lukasz clerk account 23000
+marcin manager sales 50000
+malgorzata manager account 47000
+aleksandra peon sales 21000
+marcin clerk sales 21430
