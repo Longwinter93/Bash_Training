@@ -1,0 +1,3 @@
+First Line
+Second Line
+Next Line in a text
