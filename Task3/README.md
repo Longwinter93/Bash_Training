@@ -1,3 +1,3 @@
-<br>Reading about differences between text processing tools (sed, grep, awk, perl, tr, cut, printf vs echo) - create a scripts to see these differences sed with while read: -> cat pattern.txt | while read; do sed -i "/$REPLY/d" input.txt; done
+<br>Reading about differences between text processing tools (sed,cut, grep, awk, perl, tr - character level operation, cut, printf vs echo) - usage of bash commands in in text manipulation, text transformations, text processing (diff )  - create a scripts to see these differences sed with while read: -> cat pattern.txt | while read; do sed -i "/$REPLY/d" input.txt; done
 <br> look at suck at programming related to cut tr cat sed grep awk 
 <br>Using these commands with while/for loop?

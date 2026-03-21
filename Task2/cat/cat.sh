@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#TO DO 
-#https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-cat-command-examples/
-
 cat testing.txt
 cat -n testing.txt #how many lines this text file has
 cat -b testing.txt
