@@ -1,7 +1,7 @@
 #!/bin/bash
 
 find newdirectory
-
+#Look for files in this directory
 find ./newdirectory -name sample.txt
 
 find ./secondirectory -name *.txt
@@ -25,3 +25,7 @@ find ./ -type f -name "*.txt" -exec grep 'Lukasz' {} \;
 find ./ -mtime -7
 #Files modified in the last one day
 find ./ -mtime -1
+#Deleting all files ending with .txt
+mkdir DeleteFilesInThisDir
+touch file1.txt file2.txt file3.txt file4.txt
+find DeleteFilesInThisDir/ -name '*.txt' -delete
