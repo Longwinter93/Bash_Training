@@ -1,0 +1,10 @@
+This will be wrriten into log file rather than terminal
+This too
+/mnt/c/My projects/Bash_Training/Task2/exec/exec.sh: line 40: datee: command not found
+Above command is wrong, error will be logged in log file
+Sat Apr 18 13:31:10 CEST 2026
+Output is correct. This command will be logged to txt file
+/mnt/c/My projects/Bash_Training/Task2/exec/exec.sh: line 45: exec: -s: invalid option
+exec: usage: exec [-cl] [-a name] [command [argument ...]] [redirection ...]
+rm: cannot remove 'OutputFromExec.txt': No such file or directory
+cat: OutputFromExec.txt: input file is output file

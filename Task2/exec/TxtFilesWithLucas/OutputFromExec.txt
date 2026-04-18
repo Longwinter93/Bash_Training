@@ -1,0 +1,20 @@
+Hello world
+Output from exec!
+OutputFromExec.txt
+RunningExec.sh
+StdInputToReadFromAfile
+TxtFilesWithLucas
+a4.txt
+a5.txt
+a{1-5}.txt
+b.txt
+b1.jpg
+b2.jpg
+b3.jpg
+b4.jpg
+b5.jpg
+exec.sh
+input_csv
+jpgdirectory
+logfile-2026-04-18.txt
+x.jpg
