@@ -1,0 +1,6 @@
+--- script.py	2026-06-23 17:29:14.113569500 +0200
++++ corrected_script.py	2026-06-13 11:55:37.987379600 +0200
+@@ -1 +1 @@
+-pri(Hello World)
++print('Hello World')
+\ No newline at end of file

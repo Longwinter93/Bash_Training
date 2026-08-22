@@ -1,0 +1,9 @@
+--- hello.py	2026-07-12 17:00:22.556389600 +0200
++++ hello_new.py	2026-07-12 17:00:39.608596900 +0200
+@@ -1,2 +1,2 @@
+-print("Hello, World!")
+-print("Version 1")
+\ No newline at end of file
++print("Hello, Linux!")
++print("Version 2")
+\ No newline at end of file

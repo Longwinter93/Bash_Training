@@ -1,0 +1,7 @@
+--- FirstScript.py	2026-07-18 18:28:23.653330600 +0200
++++ SecondScript.py	2026-07-18 18:28:30.005871800 +0200
+@@ -1 +1 @@
+-print("Hello Lukasz!")
+\ No newline at end of file
++print("Hello Dawid!")
+\ No newline at end of file

@@ -1,0 +1,15 @@
+3c3
+< Kuba
+---
+> Andrzej
+5,7c5,8
+< Dorota
+< Grazyna
+< Jerzy
+\ No newline at end of file
+---
+> Artur
+> Dawid
+> Kolec
+> Szymon
+\ No newline at end of file
