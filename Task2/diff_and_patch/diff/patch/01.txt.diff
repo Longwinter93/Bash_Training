@@ -1,0 +1,7 @@
+--- a1.txt	2026-06-27 11:13:01.397798800 +0200
++++ a2corrected.txt	2026-06-27 11:14:54.923005000 +0200
+@@ -1 +1 @@
+-List of people: 2500
+\ No newline at end of file
++List of people: 5250
+\ No newline at end of file
