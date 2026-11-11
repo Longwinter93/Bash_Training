@@ -1,0 +1,5 @@
+ID,Name,Occupation,Animal
+B,Marcin,Manager,Cat
+C,Beata,Accountant,Lion
+D,Andrzej,Laywer,Elephant
+E,Rafal,Pharmacist,Hamster 

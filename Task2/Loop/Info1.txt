@@ -1,0 +1,6 @@
+ID,Name,Occupation,Animal
+A,Lukasz,IT,Dog
+B,Marcin,Manager,Cat
+C,Beata,Accountant,Lion
+D,Andrzej,Laywer,Elephant
+E,Rafal,Pharmacist,Hamster 

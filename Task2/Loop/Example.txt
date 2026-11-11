@@ -1,0 +1,4 @@
+touch Lukasz01.txt
+touch Lukasz02.txt
+touch Lukasz03.txt
+touch Lukasz04.txt
