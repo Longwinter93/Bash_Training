@@ -1,0 +1,5 @@
+ID,Name,Occupation,Animal
+A,Rafal,Doctor,Eagle
+B,Noah,Human Resources Specialist,Dolphin
+C,Charlotte,Accountant,Lion
+D,Lukasz,Electrician,Octopus

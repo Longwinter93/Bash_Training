@@ -1,0 +1,8 @@
+ID,Name,Occupation,Animal
+A,Lukasz,Dentist,Whale
+B,Noah,Human Resources Specialist,Bear
+C,Rafal,Writer,Crab
+D,Lukasz,Graphic Designer,Owl
+E,Jerzy,Data Analyst,Shark
+F,Lukasz,Master,Dog
+G,Lukasz,Plumber,Cat
